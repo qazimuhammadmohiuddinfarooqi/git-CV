@@ -2,7 +2,7 @@
   --navy: #0a1160;
   --ink: #1b1b1f;
   --paper: #ffffff;
-  --page: #e9eaf0;
+  --page: #747379;
   --font: "Segoe UI", Roboto, Arial, sans-serif;
   --font-head: Georgia, "Times New Roman", serif;
 }
@@ -24,6 +24,8 @@ body {
   background: var(--paper);
   padding-bottom: 1.5rem;
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
+  border:5px solid black;
+
 }
 
 /* Header */
